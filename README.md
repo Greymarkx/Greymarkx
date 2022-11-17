@@ -1,0 +1,3 @@
+- I’m @Greymarkx
+- I’m currently learning Python
+- I'm a complete begginer
